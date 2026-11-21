@@ -1,0 +1,6 @@
+{
+  "name": "ASCII Typographic Cube",
+  "description": "Interactive Three.js 3D typographic cube rendered in real-time ASCII with Agency FB lettering and standalone HTML export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
